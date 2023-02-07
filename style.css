@@ -1,0 +1,40 @@
+body {
+ margin-right: 50px;
+ margin-left: 50px;
+ background: skyblue;
+}
+table{
+	width: 75%;
+}
+
+div{
+	margin: 100px;
+	margin-top: -50px;
+	padding: 100px
+}
+td.caps{
+	text-align: justify;
+}
+td.senda{
+	font-weight: bold;
+	color: red;
+}
+h1.name{
+	font-size: 50px;
+	color: red;
+
+}
+
+td.indent{
+	text-indent: 20px;
+	text-align: justify;
+}
+td.space{
+	text-indent: 205px;
+}
+h3{
+	color: red;
+}
+h4{
+	color: red;
+}
